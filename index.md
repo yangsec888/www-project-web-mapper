@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Web Mapper
-tags: example-tag
+tags: web mapper, application asset, tracking
 level: 0
 type: documentation
 
@@ -28,19 +28,17 @@ Please change these items to indicate the actual information you wish to present
 {copy for this file (index.md)}
 Replace the text above the commented area with your information in the format below:
 ```
-## Welcome
-Include some information here about your chapter
+## Project Description
+A pure Ruby library for the web application asset discovery and tracking. The tool is useful when you're handling a larger size organization with multiple Internet domains and networks registered under the name. Where both legacy and new web applications are omni-present but nobody seems to be able to provide a complete list of application URLs to you. Yes you can always do it the old way by using tool sets such as NMAP, OWASP Zap web crawler, along with others. But such tool sets could quickly become too much manual-driven and inaccurate, if not impossible. In the contrary, once setup, this project will help you quickly identify all the 'unknown' web application assets, and keep track of them automatically. If you are serious about your organization's Internet web application exposure, this might be the perfect all-in-one footprinting tool you're looking for.
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
+## Licensing
+The OWASP Security Principles are licensed under the Apache 2.0 license, so you can copy, distribute and transmit the work, and you can adapt it, and use it commercially, but all provided that you attribute the work and if you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one. 
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
 
-## Local News
-- Meeting Location
-- Everyone is welcome to join us at our chapter meetings.
+## News and Event
+- [January 1 2018] OWASP Web Mapper demo web application released.
+- [August 1 2015] OWASP Web Mapper Project created.
 
 ```
 {info.md}
